@@ -29,3 +29,7 @@
 - Traffic: enter real figures. If the site is new, state that honestly.
 - Social accounts: include only accounts you own and actively use.
 - Products: apply to programs relevant to laptops, components, storage or hosting only if you intend to publish about them.
+
+
+## Product catalogue
+The homepage now includes 10 product research cards, locally stored illustrative product images, category filters and a search box. Product buttons currently lead to ordinary manufacturer links; replace them with your approved affiliate tracking URLs only after a program approves your site. Confirm image accuracy and replace illustrative images with approved product images when a network provides them.
