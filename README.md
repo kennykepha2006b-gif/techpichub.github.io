@@ -1,29 +1,31 @@
-# TechPick Hub — Tech Affiliate Website
+# TechPick Hub — affiliate application ready starter
 
-Complete static affiliate website for PC, laptop, component and technology recommendations.
+## Before publishing
+1. Open `contact.html` and replace `REPLACE-WITH-YOUR-REAL-EMAIL` with an email address you own and check regularly.
+2. Confirm the live GitHub Pages URL. Canonical URLs and `sitemap.xml` currently use `https://kennykepha2006b-gif.github.io/techpick-hub/`; update them if your URL differs.
+3. Review the privacy policy against services you actually enable. It is a starter policy, not legal advice.
+4. Test all pages on phone and desktop.
+5. Do not invent traffic, sales, audience figures, product tests, social accounts or existing affiliate partnerships. Approval is not guaranteed.
 
-## Files
-- index.html
-- styles.css
-- script.js
-- images/products/
-- README.md
+## Included
+- Homepage with clear technology niche and official-manufacturer research links
+- Buying guide index and three original educational guides
+- About page, affiliate disclosure, editorial policy, privacy policy and contact page
+- SEO titles/descriptions, canonical URLs, `robots.txt` and `sitemap.xml`
+- Responsive CSS and footer navigation
 
-## Add affiliate links
-Open index.html and replace each `https://example.com/your-affiliate-link-X` with your real affiliate URL.
+## Upload to GitHub Pages
+1. Extract this ZIP.
+2. Open your `techpick-hub` repository.
+3. Choose **Add file → Upload files**.
+4. Upload the *contents* of the extracted folder into the repository root, including the `guides` folder.
+5. Commit to `main`, wait for Pages to deploy, then test the live site.
 
-## Add product images
-Put images inside `images/products/` and replace the emoji product blocks with `<img>` elements if desired.
+## Honest publisher description for applications
+“TechPick Hub is a technology education and buying-guide website focused on laptops, PC components, storage, memory and everyday computing. We publish plain-language explainers and practical checklists to help readers understand specifications, compare options and make informed purchase decisions. Our editorial approach prioritizes clear explanations, accurate product details, transparency about commercial relationships and useful information for readers at different experience levels. We plan to monetize relevant content through clearly disclosed affiliate links where accepted by our audience and consistent with our editorial standards.”
 
-## GitHub Pages
-Create a public GitHub repository, upload all files/folders, then go to Settings > Pages > Build and deployment > Deploy from a branch > main > / (root) > Save.
-
-This site is static, so it needs no PHP, MariaDB or server and works with GitHub Pages.
-
-
-## Featured products and photos
-The featured-products section now includes real product models: Dell Latitude 5440, HP EliteBook 840 G10, Lenovo ThinkPad E14 Gen 6, PNY GeForce RTX 4060 8GB, Samsung 990 PRO NVMe SSD, and Kingston FURY Beast DDR5.
-
-Product images are loaded from third-party image hosts, so visitors need an internet connection to see them. The product-detail buttons currently lead to manufacturer/product information pages, **not affiliate links**. After an affiliate network approves your account and you receive tracking links, replace each button URL with your own affiliate URL.
-
-Prices and specifications can differ by configuration; verify them on the destination page before publishing buying advice.
+## Application fields
+- Promotion method: choose content website / educational articles / buying guides if offered and accurate.
+- Traffic: enter real figures. If the site is new, state that honestly.
+- Social accounts: include only accounts you own and actively use.
+- Products: apply to programs relevant to laptops, components, storage or hosting only if you intend to publish about them.

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kennykepha2006b-gif.github.io/techpick-hub/sitemap.xml

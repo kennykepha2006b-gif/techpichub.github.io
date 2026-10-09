@@ -1,1 +1,1 @@
-const buttons=document.querySelectorAll('.category');const cards=document.querySelectorAll('.product-card');buttons.forEach(button=>{button.addEventListener('click',()=>{buttons.forEach(b=>b.classList.remove('active'));button.classList.add('active');const filter=button.dataset.filter;cards.forEach(card=>{card.style.display=filter==='all'||card.dataset.category===filter?'flex':'none'})})});
+document.addEventListener('DOMContentLoaded',()=>{const y=document.getElementById('year');if(y)y.textContent=new Date().getFullYear()});
